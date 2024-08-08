@@ -10,7 +10,7 @@ Here we have project screenshot :
 
 
 On Hover :
-![screenshot](OnHove.png)
+![screenshot](OnHover.png)
 
 
 # Description
