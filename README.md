@@ -1,6 +1,18 @@
 # On Hover Effect in HTML
 A simple HTML repository demonstrating a basic on hover effect using CSS.
 
+
+# Tutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube]())
+
+# Screenshot
+Here we have project screenshot :
+
+
+On Hover :
+![screenshot](OnHove.png)
+
+
 # Description
 This repository contains an HTML file that showcases a simple on hover effect using CSS. When you hover over a specific element, the background color and text color change, creating a visually appealing effect.
 
